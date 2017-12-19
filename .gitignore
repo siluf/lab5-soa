@@ -32,7 +32,3 @@ hs_err_pid*
 application.properties
 *.iml
 /out/
-/bin
-.classpath
-.project
-.settings/*
